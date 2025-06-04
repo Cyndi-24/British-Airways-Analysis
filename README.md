@@ -11,3 +11,5 @@ British Airways is the largest international airline in the UK which offers worl
 ---
 SKILLS DEMONSTRATED
 ---
+
+* Data Cleaning; The data was properly cleaning
