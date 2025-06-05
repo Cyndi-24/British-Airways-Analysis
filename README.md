@@ -6,10 +6,11 @@
 ---
 INTRODUCTION
 ---
-British Airways is the largest international airline in the UK which offers world class services across 162 destinations.The operate a fleet of aircrafts ranging from Airbus and Boeing.It offers  customer support through its website,mobile app and phone helpline which helps passengers to book flights and manage bookings online. This project is focused on analysing the data provided by the company in order to further improve the company.
+British Airways is the largest international airline in the UK which offers world class services across 162 destinations.The operate a fleet of aircrafts ranging from Airbus and Boeing.It offers  customer support through its website,mobile app and phone helpline which helps passengers to book flights and manage bookings online. 
 
 ---
-SKILLS DEMONSTRATED
+PROBLEM STATEMENT
 ---
+This project is focused on analysing the data provided by the company in order to further improve the company. With the help of the questions that will be answered using Sql queries, British Airline will know the areas the capitalize on in order to generate more revenue,increase the customer base and satisfy their customers.
 
-* Data Cleaning; The data was properly cleaning
+# Question
