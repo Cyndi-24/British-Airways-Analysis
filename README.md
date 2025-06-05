@@ -12,5 +12,10 @@ British Airways is the largest international airline in the UK which offers worl
 PROBLEM STATEMENT
 ---
 This project is focused on analysing the data provided by the company in order to further improve the company. With the help of the questions that will be answered using Sql queries, British Airline will know the areas the capitalize on in order to generate more revenue,increase the customer base and satisfy their customers.
-
-# Question
+The questions are as follows;
+ * Which manufacturer has the besr aircrafts in terms of fuel efficiency?
+ * Does British Airways tend to use aircrafts from manufacturers known for their superior efficiencymore frequently?
+ * Which month did passengers cancel the flight the most?
+ * which city do passengers travel the most?
+ * What is the revenue generated from baggage overtime?
+ * what is tha average number of passengers for each month like?
