@@ -19,3 +19,11 @@ The questions are as follows;
  * which city do passengers travel the most?
  * What is the revenue generated from baggage overtime?
  * what is tha average number of passengers for each month like?
+
+---
+DATA SOURCING
+---
+
+The data set was obtained from kaggle.com
+
+
