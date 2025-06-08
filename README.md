@@ -26,4 +26,9 @@ DATA SOURCING
 
 The data set was obtained from kaggle.com
 
+---
+DATA MODEL/ERD
+---
+[image alt](
+
 
