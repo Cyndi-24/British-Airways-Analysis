@@ -29,6 +29,12 @@ The data set was obtained from kaggle.com
 ---
 DATA MODEL/ERD
 ---
-[image alt](
+[image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/ERD.png)
+
+ ---
+ SKILLS DEMONSTRATED
+ ---
+ * Data Cleaning; The data was throughly cleaned using MS Excel via removal of duplicates,some blanks were removed while some were filled      up,formating of the data types to match sql column data types,standardization of date, time and currency.
+ * Database creation and importation
 
 
