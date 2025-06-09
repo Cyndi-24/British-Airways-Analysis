@@ -35,6 +35,9 @@ DATA MODEL/ERD
  SKILLS DEMONSTRATED
  ---
  * Data Cleaning; The data was throughly cleaned using MS Excel via removal of duplicates,some blanks were removed while some were filled      up,formating of the data types to match sql column data types,standardization of date, time and currency.
- * Database creation and importation
+ * Data Importation; A database  was created and tables were created prior to the importation of the data
+  * AIRCRAFTS TABLE
+  * Query
+   !(image alt)[
 
 
