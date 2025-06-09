@@ -59,5 +59,8 @@ DATA MODEL/ERD
 
    # ROUTE TABLE
    # Query
-   !
+   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/route_table_code.png)
+
+   # Result
+   ![image alt](
 
