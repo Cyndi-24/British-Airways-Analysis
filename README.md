@@ -36,7 +36,7 @@ DATA MODEL/ERD
  ---
  * Data Cleaning; The data was throughly cleaned using MS Excel via removal of duplicates,some blanks were removed while some were filled      up,formating of the data types to match sql column data types,standardization of date, time and currency.
  * Data Importation; A database  was created and tables were created prior to the importation of the data
-  # AIRCRAFTS TABLE
+   AIRCRAFTS TABLE
   # Query
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/aircrafts_table_code.png)
 
@@ -56,4 +56,8 @@ DATA MODEL/ERD
     
    # Result
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/fuel_efficiency_table.png)
+
+   # ROUTE TABLE
+   # Query
+   !
 
