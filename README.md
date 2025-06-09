@@ -45,6 +45,12 @@ DATA MODEL/ERD
 
   # FLIGHT TABLE
   # Query
+   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/flight_table_%20code.png)
+
+   # Result
    ![image alt](
+
+   # FUEL EFFICIENCY TABLE
+   # Query
 
 
