@@ -38,9 +38,9 @@ DATA MODEL/ERD
  * Data Importation; A database  was created and tables were created prior to the importation of the data
   # AIRCRAFTS TABLE
   # Query
-   !(image alt)[https://github.com/Cyndi-24/British-Airways-   Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/aircrafts_table_code.png)
+   ![image alt](https://github.com/Cyndi-24/British-Airways-   Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/aircrafts_table_code.png)
 
   # Result
-  !(image alt)[
+  ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/aircrafts_table2.png)
 
 
