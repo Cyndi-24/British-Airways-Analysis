@@ -84,7 +84,7 @@ DATA MODEL/ERD
 
   * Query
     
-   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_2.png)
+   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/aircraft_used_more_frequently.png)
 
  * Result
    
