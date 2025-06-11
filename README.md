@@ -71,14 +71,14 @@ DATA MODEL/ERD
    ---
    
   * Query
-  [image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/best_aircraft_via_fuel_effiency.png)
+  ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/best_aircraft_via_fuel_effiency.png)
 
   * Result
-    [image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_1.png)
+    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_1.png)
 
   ---
   Does British Airways tend ti use aircrafts from manufacturers known for their superior fuel efficiency more frquently?
   ---
 
   * Query
-   [image alt](
+   ![image alt](
