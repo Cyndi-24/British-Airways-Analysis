@@ -83,7 +83,19 @@ DATA MODEL/ERD
   ---
 
   * Query
+    
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_2.png)
 
  * Result
-   ![image alt](
+   
+   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_2.png)
+
+  * Insight;British Airways uses Boeing more frequently
+
+    ---
+    Which month did passengerscancel the flight the most?
+    ---
+
+    * Query
+
+    ![image alt}(
