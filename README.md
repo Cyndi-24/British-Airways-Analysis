@@ -70,11 +70,11 @@ DATA MODEL/ERD
    Which manufacturer has the best aircrafts in terms of fuel effiency?
    ---
    
-  * Query
+ # Query
     
   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/best_aircraft_via_fuel_effiency.png)
 
-  * Result
+  # Result
     
     ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_1.png)
 
@@ -82,23 +82,29 @@ DATA MODEL/ERD
   Does British Airways tend to use aircrafts from manufacturers known for their superior fuel efficiency more frquently?
   ---
 
-  * Query
+ # Query
     
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/aircraft_used_more_frequently.png)
 
- * Result
+ # Result
    
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_2.png)
 
-  * Insight;British Airways uses Boeing more frequently
+  # Insight
+   British Airways uses Boeing more frequently
 
     ---
-    Which month did passengerscancel the flight the most?
-    ---
+   Which month did passengerscancel the flight the most?
+   ---
 
- * Query
+   # Query
 
     ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/most_cancelled_flights.png)
 
-  * Result
-    ![image alt](  
+  # Result
+    ![image alt]( https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_3.png)
+
+  # INSIGHT
+   April
+
+
