@@ -51,8 +51,9 @@ DATA MODEL/ERD
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/flight_table.png)
 
    # FUEL EFFICIENCY TABLE
-
-   ![image alt](
+   # Query
+   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/fuel_efficiency_table_code.png)
+   
    # Result
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/fuel_efficiency_table.png)
 
@@ -107,7 +108,7 @@ DATA MODEL/ERD
    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/most_cancelled_flights.png)
     
   # Result
-    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_3.png)
+    ![image alt]
     
   # INSIGHT
    April
