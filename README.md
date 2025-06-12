@@ -76,6 +76,10 @@ DATA MODEL/ERD
 
   # Result
   ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_1.png)
+
+  # INSIGHT
+  
+  Mitsubushi has the best fuel efficiency
   
   ---
   Does British Airways tend to use aircrafts from manufacturers known for their superior fuel efficiency more frquently?
@@ -93,13 +97,12 @@ DATA MODEL/ERD
    British Airways uses Boeing more frequently
 
     ---
-   Which month did passengerscancel the flight the most?
+   Which month did passengers cancel flights the most?
    ---
 
    # Query
 
-    ![image alt](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/most_cancelled_flights.png)
-
+    ![image alt](
   # Result
     ![image alt]( https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_3.png)
 
