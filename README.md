@@ -129,9 +129,14 @@ Which city  did passengers travel the most?
  ---
  What is the revenue generated from baggage overtime?
  ---
-
  # Query
- ![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_5.png)
+![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/baggage_overtime_revenue.png)
 
  # Result
- ![](
+ ![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_5.png)
+
+---
+What is the average number of passengers  for each month like?
+---
+
+# Query
