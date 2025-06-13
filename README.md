@@ -111,7 +111,7 @@ DATA MODEL/ERD
    ![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_3.png)
    
   # INSIGHT
-   April
+   April was the month with the most cancelled flights.
 
 ---
 Which city  did passengers travel the most?
@@ -121,4 +121,14 @@ Which city  did passengers travel the most?
 ![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/city_most_travelled.png)
 
 # Result
-![](
+![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_4.png)
+
+# Insight
+ London is the city most travelled to
+
+ ---
+ What is the revenue generated from baggage overtime?
+ ---
+
+ # Query
+ ![](
