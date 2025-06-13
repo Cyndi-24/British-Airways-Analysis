@@ -140,3 +140,7 @@ What is the average number of passengers  for each month like?
 ---
 
 # Query
+![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/avg_monthly_revenue.png)
+
+# Result
+![](
