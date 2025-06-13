@@ -109,6 +109,7 @@ DATA MODEL/ERD
     
   # Result
    ![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/answer_3.png)
+   
   # INSIGHT
    April
 
@@ -117,4 +118,7 @@ Which city  did passengers travel the most?
 ---
 
 # Query
+![](https://github.com/Cyndi-24/British-Airways-Analysis/blob/main/BA%20flights%20SQL%20PROJECTS/capstone_images/city_most_travelled.png)
+
+# Result
 ![](
