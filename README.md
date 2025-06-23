@@ -148,10 +148,9 @@ What is the average number of passengers  for each month like?
 ---
  RECOMMENDATION AND CONCLUSION
  ---
-* The city passengers travelled to the most was London and this has to be capitalised on to generate more revenue.This can be achieved via creating more ports in  different parts London,resources or flights can be diverted from less travelled places to meet the demands of the frequently travelled places.
-* The month of April had the most cancelled flights but generated the most revenue.Investigation should be done to find out the reason for this via an online questionaire to help the company restrategize.The window for cancellation can also be reduced to avoid a lot of cancellation
+* The city passengers travelled to the most was **"London"** and this has to be capitalised on to generate more revenue.This can be achieved via creating more ports in  different parts London,resources or flights can be diverted from less travelled places to meet the demands of the frequently travelled places.
+* The month of **"April"** had the most cancelled flights but generated the most revenue.Investigation should be done to find out the reason for this via an online questionaire to help the company restrategize.The window for cancellation can also be reduced to avoid a lot of cancellation
 * With an idea of the average monthly passengers, dynamic pricing srategies can be implemented to adjust fares based on demand flunctuations thus maximizing revenue
 * For cities with fewer passengers  a larger booking time should me made available to accomodate more passengers and to avoid flying few passengers on a flight  and increased fuel consumption
-* Proper resources should be chanelled to ensure customers get optimum value  and satisfaction
-  for their payments.
+* Proper resources should be chanelled to ensure customers get optimum value  and satisfaction for their payments.
   
